@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+brew install nvm
+mkdir ~/.nvm
+nvm install 5.10.0
+
 npm cache clean
 npm install node-gyp -g
 npm install npm -g
