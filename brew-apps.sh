@@ -2,31 +2,31 @@
 
 brew update
 brew upgrade
-cask update
+brew cask update
 
 # daily
-cask install android-file-transfer
-cask install asepsis
-cask install appcleaner
-cask install franz
-cask install imageoptim
-cask install gyazo
-cask install omnidisksweeper
-cask install skype
-cask install slack
-cask install spotify
-cask install the-unarchiver
-cask install utorrent
-cask install vlc
+brew cask install android-file-transfer
+brew cask install asepsis
+brew cask install appcleaner
+brew cask install franz
+brew cask install imageoptim
+brew cask install gyazo
+brew cask install omnidisksweeper
+brew cask install skype
+brew cask install slack
+brew cask install spotify
+brew cask install the-unarchiver
+brew cask install utorrent
+brew cask install vlc
 
 # browsers
-cask install google-chrome
-cask install google-chrome-canary
-cask install firefox
-cask install torbrowser
+brew cask install google-chrome
+brew cask install google-chrome-canary
+brew cask install firefox
+brew cask install torbrowser
 
 # dev
-cask install atom
-cask install postman
-cask install gitkraken
-cask install iterm2
+brew cask install atom
+brew cask install postman
+brew cask install gitkraken
+brew cask install iterm2
