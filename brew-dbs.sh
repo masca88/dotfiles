@@ -3,9 +3,10 @@
 brew update && brew upgrade && brew doctor
 
 # MongoDB + autostart
-brew install mongodb
+brew install mongodb --with-openssl
+sudo mkdir -p /data/db
 ln -sfv /usr/local/opt/mongodb/*.plist ~/Library/LaunchAgents
-cask install mongochef
+brew cask install mongochef
 
 # Redis + autostart
 brew install redis
