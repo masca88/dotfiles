@@ -30,3 +30,4 @@ brew cask install atom
 brew cask install postman
 brew cask install gitkraken
 brew cask install iterm2
+brew cask install android-platform-tool
