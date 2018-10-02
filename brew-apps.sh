@@ -18,6 +18,7 @@ brew cask install spotify
 brew cask install the-unarchiver
 brew cask install utorrent
 brew cask install vlc
+brew cask install clipy
 
 # browsers
 brew cask install google-chrome
