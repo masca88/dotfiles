@@ -27,7 +27,7 @@ brew cask install firefox
 brew cask install torbrowser
 
 # dev
-brew cask install atom
+brew cask install code
 brew cask install postman
 brew cask install gitkraken
 brew cask install iterm2
