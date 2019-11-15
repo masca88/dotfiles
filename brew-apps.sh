@@ -27,7 +27,7 @@ brew cask install firefox
 brew cask install torbrowser
 
 # dev
-brew cask install code
+brew cask install visual-studio-code
 brew cask install postman
 brew cask install iterm2
 brew cask install android-platform-tool
